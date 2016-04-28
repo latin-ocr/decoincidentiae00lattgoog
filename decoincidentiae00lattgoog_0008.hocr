@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decoincidentiae00lattgoog_0008.png"; bbox 0 0 2924 4904; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 119 1573 1298 1710">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 119 1503 1298 1710">
+     <span class='ocr_line' id='line_1_1' title="bbox 119 1573 1298 1710; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 119 1573 422 1710; x_wconf 69' lang='lat' dir='ltr'>HENfflco</span> <span class='ocrx_word' id='word_1_2' title='bbox 492 1575 857 1708; x_wconf 67' lang='lat' dir='ltr'>fflfflfflco</span> <span class='ocrx_word' id='word_1_3' title='bbox 926 1575 1298 1709; x_wconf 64' lang='lat' dir='ltr'><strong>Mwfflhfflsso</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 1917 1262 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 1917 1262 2216">
+     <span class='ocr_line' id='line_1_2' title="bbox 158 1917 1262 2010; baseline 0.002 -15"><span class='ocrx_word' id='word_1_4' title='bbox 158 1917 476 1998; x_wconf 82' lang='lat' dir='ltr'>MYTHOLOGO</span> <span class='ocrx_word' id='word_1_5' title='bbox 503 1922 570 1996; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 597 1919 935 1998; x_wconf 77' lang='lat' dir='ltr'><strong>GRAMMATICO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 961 1920 1262 2010; x_wconf 82' lang='lat' dir='ltr'>DOOTISSIMO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 204 2108 1207 2216; baseline 0.003 -32"><span class='ocrx_word' id='word_1_8' title='bbox 204 2108 447 2189; x_wconf 85' lang='lat' dir='ltr'><strong>PATERNA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 471 2109 875 2187; x_wconf 77' lang='lat' dir='ltr'><strong>FAMILIARITATE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 903 2109 1207 2216; x_wconf 80' lang='lat' dir='ltr'><strong>OONJUNOTO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 555 2422 1092 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 555 2422 1092 2496">
+     <span class='ocr_line' id='line_1_4' title="bbox 555 2422 1092 2496; baseline 0 -16"><span class='ocrx_word' id='word_1_11' title='bbox 555 2422 655 2480; x_wconf 79' lang='lat' dir='ltr'>HUNc</span> <span class='ocrx_word' id='word_1_12' title='bbox 673 2422 864 2479; x_wconf 77' lang='lat' dir='ltr'><strong>LIBELLUM</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1088 2491 1092 2496; x_wconf 49' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 440 2982 976 3051">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 440 2982 976 3051">
+     <span class='ocr_line' id='line_1_5' title="bbox 440 2982 976 3051; baseline 0.006 -3"><span class='ocrx_word' id='word_1_14' title='bbox 440 2982 707 3051; x_wconf 85' lang='lat' dir='ltr'><strong>HERMANNUS</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 730 2983 976 3051; x_wconf 81' lang='lat' dir='ltr'><strong>LATTMANN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1466 4904">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1466 4904">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1466 4904; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1466 4904; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
